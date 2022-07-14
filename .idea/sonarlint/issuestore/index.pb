@@ -225,8 +225,6 @@ M
 demo-front/src/views/Home.vue,7/8/78e996c725f0f0ee4ee64edefc4dfad1f6cd2c0c
 N
 demo-front/src/router/index.js,2/4/24c6e70040c866e3e9a70af71f8421c0b25c6bb5
-L
-demo-front/src/views/Log.vue,4/e/4e7a7d3ec44f8c2781d6b6e3740fc4eccc27700b
 |
 Ldemo-backend/src/main/java/com/example/demo/generator/domain/OperateLog.java,2/7/2756cbf2f5e92c7c50f5c4b82bd11bf56f8a7769
 P
@@ -247,3 +245,25 @@ r
 Bdemo-backend/src/main/java/com/example/demo/common/ResultBean.java,b/b/bbdf764da11ff7942669bd2ec25023f56d7524f7
 w
 Gdemo-backend/src/main/java/com/example/demo/component/WebLogAspect.java,7/9/791162573338528942bda053d36a79ede8362403
+y
+Idemo-backend/src/main/java/com/example/demo/config/MybatisPlusConfig.java,4/b/4be81fde9f5cef74267de82895759574b274c4ea
+z
+Jdemo-backend/src/main/java/com/example/demo/controller/BookController.java,6/a/6a5f57c05d92f90c9017813656505a4f7b2e1308
+€
+Pdemo-backend/src/main/java/com/example/demo/controller/OperateLogController.java,6/2/623ee598ca391e8ad163a59c194cfb0296657083
+‰
+Ydemo-backend/src/main/java/com/example/demo/exception/handler/GlobleExceptionHandler.java,4/a/4a7522a97b8283c2d0fda1e99bfa9de664e820c2
+v
+Fdemo-backend/src/main/java/com/example/demo/exception/MyException.java,0/2/0227c34172395050281003be333c12def1f8a230
+‡
+Wdemo-backend/src/main/java/com/example/demo/generator/service/impl/BookServiceImpl.java,0/b/0be30317298cb77854e92eef2bbb4af67e6f5358
+Q
+!demo-front/src/component/Book.vue,9/b/9b8c2e7b648ad59ab1a8255b8e33285555b9ba4b
+8
+demo.sql,6/2/62813c3a0485c9bff5e76a602d66bc3835c3a237
+s
+Cdemo-backend/src/main/java/com/example/demo/config/MyWebConfig.java,9/2/9289ede5866b7e642ba1f5c6fe78ed2f1698fe7c
+E
+demo-front/.gitignore,1/4/1489639a590b66213a637d3a06178fc1b0e41b70
+L
+demo-front/src/views/Log.vue,4/e/4e7a7d3ec44f8c2781d6b6e3740fc4eccc27700b
